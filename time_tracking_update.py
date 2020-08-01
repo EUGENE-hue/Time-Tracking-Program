@@ -80,5 +80,7 @@ print ('Information written to records successfully')
 #import time
 
 
+#EUGENE-hue The output stored in a file for future use
+
 
 
