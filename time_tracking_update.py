@@ -77,8 +77,9 @@ print ("Amount of money earned for the day : ${:0,.2f}".format(amount_due))
 print ('..'*40) 
 print ('Information written to records successfully') 
 
-#import datetime
 
 
 
+
+#EUGENE SINTIM The output stored in a file for future use
 
